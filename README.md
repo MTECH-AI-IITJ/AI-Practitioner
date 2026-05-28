@@ -14,7 +14,7 @@
 
 | 🌟 Core Impact | 🧠 Technical Strengths | 📈 Leadership Output |
 |---|---|---|
-| AI-driven QA automation, intelligent validation, and LLM-enabled test orchestration | Kubernetes, Docker, ML lifecycle, CI/CD and observability | Delivered scalable production platforms with improved MTTR and reliability |
+| AI-driven QA automation, intelligent validation, and LLM-enabled test orchestration | Kubernetes, Docker, ML lifecycle, CI/CD and observability | Consistently delivers high-quality results within timelines
 | Telecom IMS/VoLTE/VoNR/5G Core, IoT, and distributed systems | Big Data pipelines: Kafka, Spark, Hadoop, Hive, HBase | Led teams of 10–20+ engineers across cross-functional delivery models |
 | Local LLMs, RAG, prompt engineering, and analytics automation | Python automation, Prometheus, Grafana, cloud platforms | Aligned engineering delivery with business KPIs and operator SLAs |
 
